@@ -1,2 +1,3 @@
-Arquivo para testes
-Edit pelo browser
+Arquivo para testes Edit pelo browser
+Edit pelo terminal
+
